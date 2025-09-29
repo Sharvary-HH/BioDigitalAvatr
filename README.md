@@ -130,9 +130,13 @@ Refer to backend docs/API documentation for full endpoint details.
   - Deep learning models stored in subfolders.  
 - **Real-time pipeline**: Sliding window (100 readings), PCA feature extraction, ML inference.  
 
-### Example Outputs
-- Emotions with confidence scores: `"Fear: 0.61, Angry: 0.62, Neutral: 0.74"`  
-- Activities with scores: Sitting/Standing/Walking/Running  
+### Outputs
+![BioDigital Avatar](./images/1.png)
+![BioDigital Avatar](./images/2.png)
+![BioDigital Avatar](./images/3.png)
+![BioDigital Avatar](./images/4.png)
+![BioDigital Avatar](./images/5.png)
+ 
 
 ---
 
